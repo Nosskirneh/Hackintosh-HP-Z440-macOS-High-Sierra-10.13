@@ -303,20 +303,22 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Change 15 Port Limit To 22 in XHCI 10.12(x99-series) </string>
+				<string>Change 15 Port Limit To 22 in XHCI 10.13.6 (x99-series) </string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
 				<data>
-				g710////EA==
+				g32IDw+DpwQAAA==
 				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
+				<key>MatchOS</key>
+				<string>10.13.x</string>
 				<key>Name</key>
-				<string>AppleUSBXHCIPCI</string>
+				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
 				<data>
-				g710////Fg==
+				g32ID5CQkJCQkA==
 				</data>
 			</dict>
 			<dict>
